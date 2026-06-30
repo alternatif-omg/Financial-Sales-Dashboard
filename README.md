@@ -78,8 +78,3 @@ RETURN DIVIDE(CurrentMonth - PrevMonth, PrevMonth) * 100
 - Marked `DateTable` as the official Date Table for DAX time functions
 
 ---
-
-## 📥 Download Dashboard File
-> 📎 [Download .pbix file](GANTI_DENGAN_LINK_GDRIVE_KAMU)
-
----
